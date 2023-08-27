@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Athens, GA"
-title                    : "Huaqin Zhao / Personal Homepage"
+title                    : "Zhao Huaqin (赵华钦) / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Huaqin Zhao"
 description              : &description "Graph & LLM"
